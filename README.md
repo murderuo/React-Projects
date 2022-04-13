@@ -1,4 +1,4 @@
-<div align="center"><h1>My React Projects</h1></div><br/><br/><br/>
+<div align="center"><h1>My React Projects</h1></div><br/>
 
 <a href="https://github.com/murderuo/0-Star-Wars-Api-with-useQuery-Pagination">Star-Wars-Api-with-useQuery-Pagination</a>
 
