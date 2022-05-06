@@ -30,6 +30,9 @@
 <a href="https://github.com/murderuo/React-Infinite-Scrool-with-unsplashApi">React-Infinite-Scrool-with-unsplashApi</a>
 
 
+<a href="https://github.com/murderuo/React-simple-pagination-from-jsonPlaceHolder">React-simple-pagination-from-jsonPlaceHolder</a> 
+
+
 
 
 
