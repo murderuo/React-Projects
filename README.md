@@ -33,7 +33,13 @@
 <a href="https://github.com/murderuo/React-simple-pagination-from-jsonPlaceHolder">React-simple-pagination-from-jsonPlaceHolder</a> 
 
 
-<a href="https://github.com/murderuo/ReactJS-Sample-TextGenerator-from-Loremipsum.net">ReactJS-Sample-TextGenerator-from-Loremipsum.net</a> 
+<a href="https://github.com/murderuo/ReactJS-Sample-TextGenerator-from-Loremipsum.net">ReactJS-Sample-TextGenerator-from-Loremipsum.net</a>
+
+
+<a href="https://github.com/murderuo/React-data-display-with-apexcharts---Python-Backend">React-data-display-with-apexcharts---Python-Backend</a>
+
+
+
 
 
 
