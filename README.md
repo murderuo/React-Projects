@@ -38,6 +38,8 @@
 
 <a href="https://github.com/murderuo/React-data-display-with-apexcharts---Python-Backend">React-data-display-with-apexcharts---Python-Backend</a>
 
+<div align="center"><h2>Simple React Projects</h2></div><br/>
+
 
 
 
