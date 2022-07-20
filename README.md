@@ -40,6 +40,12 @@
 
 <div align="center"><h2>Simple React Projects</h2></div><br/>
 
+<a href="https://github.com/murderuo/react-random-number-generator">react-random-number-generator</a>
+
+
+<a href="https://github.com/murderuo/React-Custom-User-Gallery">React-Custom-User-Gallery</a>
+
+
 
 
 
