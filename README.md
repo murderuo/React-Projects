@@ -46,6 +46,9 @@
 <a href="https://github.com/murderuo/React-Custom-User-Gallery">React-Custom-User-Gallery</a>
 
 
+<a href="https://github.com/murderuo/react-quote-generator">react-quote-generator</a> 
+
+
 
 
 
